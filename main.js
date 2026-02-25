@@ -10,7 +10,7 @@ const CONFIG = {
   instagram: "rakitriset",
 
   // Email
-  email: "hello@rakitriset.com",
+  email: "rakitriset@gmail.com",
 
   // Pesan default saat klik WA
   waMessage: "Halo RakitRiset! Saya ingin konsultasi projek.",
